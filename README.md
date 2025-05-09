@@ -17,7 +17,6 @@ project-directory/
 * main.py            # Main script for scraping, database handling, and email reporting
 * requirements.txt   # Required Python libraries
 * app.yaml           # GCP deployment configuration
-* venv/              # Virtual environment
 * urls.csv           # List of product URLs to scrape
 * products.csv       # List of product URLs to scrape
 * README.md          # Documentation
