@@ -1,0 +1,7 @@
+runtime: python310
+entrypoint: python3 main.py
+
+handlers:
+- url: /.*
+  script: auto
+
